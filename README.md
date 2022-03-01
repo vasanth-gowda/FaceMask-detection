@@ -40,6 +40,12 @@ to import the model, run
   from tensorflow.keras.applications import VGG19
 ```
 
+
+## Model Parameters 
+
+The total number of parameters of the model are 22,122,049
+![image](https://user-images.githubusercontent.com/97322648/156188275-c130e367-4065-410e-9cd0-c1a999dd0a4e.png)
+
 ## Result
 
 
